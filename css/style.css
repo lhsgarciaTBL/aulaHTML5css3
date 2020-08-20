@@ -1,0 +1,48 @@
+body{
+    background: rgb(114, 130, 219);
+    margin-right: 30px;
+    margin-left: 30px;
+    margin-top: 20px;   
+}
+
+header{
+    margin-top: 70px; 
+
+}
+
+h1{
+    color: rgb(5, 32, 121);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h2{
+    color: rgb(29, 69, 85);
+    font-family: fantasy;
+}
+
+p{
+    font-size: 18px;
+    font-family: monospace;
+}
+
+footer{
+    margin-bottom: 30px;
+}
+
+.img_padrao{
+    margin-bottom: 20px;
+    width: 300px;
+}
+
+.img_parceiros{
+    margin-bottom: 20px;
+    width: 130px;
+}
+
+.comunicacao{
+    margin-left: 5px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    width: 30px;
+}
+
